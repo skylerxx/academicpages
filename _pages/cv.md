@@ -9,51 +9,59 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education
+**The University of Warwick** *PhD Candidate* 
+Quantitative track in the MPhil stage. Passed with overall average mark: 75%. 
+**The University of Manchester** *Master of Research*
+Received Destination for both taught modules and final dissertation.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+# Experience
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Warwick Behavioural Insight Team (WBIT)** *October 2021 – Present*
+Nudge Unit Lead *Coventry, UK*
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**University of Warwick** *September 2021 – Present* 
+Senior Graduate Teaching Assistant *Coventry, UK*
+
+**National University of Ireland Galway** *January 2020 – September 2020*
+Research Assistant *Galway, Ireland*
+
+**Brant Lake Camp** *2016 – September 2016*
+Intern *New York Stata, USA*
+
+# Service and Responsibility
+
+**Doctoral College of Warwick University** *October 2021 – Present* 
+Co-founder of MeNt-working Series 
+
+**Warwick Business School Doctoral Programme** *November 2020 – September 2021*
+PhD student Representative
+
+**Strategic Management Society (SMS)** *October 2020 – Present*
+Conference Support Staff
+
+# Awards and Honours 
+ 
+* Networking Fund for Quantitative Research Method *Warwick Doctoral College (2021)*
+* PhD scholarship Award *University of Warwick (2020)*
+* Alan Rugman Research Scholarship *Henley Business school, University of Reading (2019)*
+* Research fellow scholarship *University of National University of Ireland Galway (2019)*
+
+# Talks and Presentations
+
+* **Modelling the discontinuous change with growth model**
+Warwick Doctoral College *August 2021*
+
+* **Digital firms and digital ecosystems: Thoughts on their internationalisation**
+Henley Business School *November 2019*
+
+* **Artificial intelligence and digital healthcare: A Patient’s Perspective.**
+International Digital Healthcare and Medical Analytics Conference *June 2019*
+
+* **Alliance MBS Doctoral Research Conference**
+University of Manchester *May 2019*
+
+# Affiliation 
+* Strategy Management Society 
+* Academy of Management  
+
