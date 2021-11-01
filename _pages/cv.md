@@ -11,10 +11,11 @@ redirect_from:
 
 # Education
 **The University of Warwick** *PhD Candidate* 
-Quantitative track in the MPhil stage. 
-Passed with overall average mark: 75%. 
+
+Quantitative track in the MPhil stage. Passed with overall average mark: 75%. 
 
 **The University of Manchester** *Master of Research*
+
 Received Destination for both taught modules and final dissertation.
 
 # Experience
