@@ -12,7 +12,7 @@ I'm a Ph.D. candidate at [Warwick Business School](https://www.wbs.ac.uk/), Univ
 
 I recently initiated the Methodology Networking Series with [Carlo Hofer](https://warwick.ac.uk/fac/soc/pais/people/hofer), with funding support from Warwick Doctoral College. This event series will bring together PhD students from different subject backgrounds, to share their own experiences, challenges and skills in applying different methods in their research. The event will run both online and face-to-face. If you are interested in participating or in giving a presentation, please feel free to get in touch with me or Carlo. 
 
-In October 2021, I took on the role as the Head of Nudge Unit at [Warwick Behaviour Insights Team (WBIT)](https://warwick.ac.uk/research/priorities/behaviour-brain-society/research/wbit/). We are engaged in collaborative research by applying insights from behavioural science and social psychology to create nudges for local businesses and communities as well as individual wellbeing.
+In October 2021, I took on the role as the Head of the Nudge Unit at [Warwick Behaviour Insights Team (WBIT)](https://warwick.ac.uk/research/priorities/behaviour-brain-society/research/wbit/). We are engaged in collaborative research by applying insights from behavioural science and social psychology to create nudges for local businesses and communities as well as individual wellbeing.
 
 Outside my work, I play tennis. 
 
