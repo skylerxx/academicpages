@@ -15,7 +15,7 @@ redirect_from:
 Quantitative track in the MPhil stage. Passed with overall average mark: 75%
 
 **The University of Manchester** *Master of Research*  
-Received distinction for both taught modules and final dissertation.
+Received distinction for both taught modules and master dissertation.
 
 # Experience
 
@@ -44,7 +44,7 @@ Conference Support Staff
 
 # Awards and Honours 
  
-* Networking Fund for Quantitative Research Method *Warwick Doctoral College (2021)*
+* Event Fund for Quantitative Research Method *Warwick Doctoral College (2021)*
 * PhD Scholarship Award *University of Warwick (2020)*
 * Alan Rugman Research Scholarship *Henley Business school, University of Reading (2019)*
 * Research Fellow Scholarship *University of National University of Ireland Galway (2019)*
