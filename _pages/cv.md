@@ -68,3 +68,4 @@ University of Manchester *May 2019*
 * Strategy Management Society 
 * Academy of Management  
 
+
