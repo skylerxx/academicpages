@@ -45,7 +45,7 @@ Conference Support Staff
 # Awards and Honours 
  
 * Networking Fund for Quantitative Research Method *Warwick Doctoral College (2021)*
-* PhD scholarship Award *University of Warwick (2020)*
+* PhD Scholarship Award *University of Warwick (2020)*
 * Alan Rugman Research Scholarship *Henley Business school, University of Reading (2019)*
 * Research fellow scholarship *University of National University of Ireland Galway (2019)*
 
