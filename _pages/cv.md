@@ -65,7 +65,7 @@ University of Manchester *May 2019*
 
 
 # Affiliation 
-* Strategy Management Society (SMS)
+* Strategic Management Society (SMS)
 * Academy of Management (AoM) 
 
 
