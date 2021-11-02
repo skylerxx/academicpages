@@ -24,9 +24,6 @@ Nudge Unit Lead *Coventry, UK*
 **University of Warwick** *September 2021 – Present*  
 Senior Graduate Teaching Assistant *Coventry, UK*
 
-**University of Warwick** *September 2021 – Present* 
-Senior Graduate Teaching Assistant, *Coventry, UK*
-
 **National University of Ireland Galway** *January 2020 – September 2020*
 Research Assistant *Galway, Ireland*
 
