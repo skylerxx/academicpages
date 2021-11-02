@@ -28,12 +28,12 @@ Senior Graduate Teaching Assistant *Coventry, UK*
 **National University of Ireland Galway** *January 2020 – September 2020*  
 Research Assistant *Galway, Ireland*
 
-**Brant Lake Cam** *2016 – September 2016*  
+**Brant Lake Camp** *2016 – September 2016*  
 Intern *New York Stata, USA*
 
 # Service and Responsibility
 
-**Doctoral College of Warwick University** *October 2021 – Present* 
+**Doctoral College of Warwick University** *October 2021 – Present*  
 Co-founder of MeNt-working Series 
 
 **Warwick Business School Doctoral Programme** *November 2020 – September 2021*
