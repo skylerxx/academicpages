@@ -20,7 +20,7 @@ Received distinction for both taught modules and master dissertation.
 # Experience
 
 **Warwick Behavioural Insight Team (WBIT)** *October 2021 – Present*  
-Nudge Unit Lead *Coventry, UK*
+The Nudge Unit Lead *Coventry, UK*
 
 **University of Warwick** *September 2021 – Present*  
 Senior Graduate Teaching Assistant *Coventry, UK*
@@ -28,7 +28,7 @@ Senior Graduate Teaching Assistant *Coventry, UK*
 **National University of Ireland Galway** *January 2020 – September 2020*  
 Research Assistant *Galway, Ireland*
 
-**Brant Lake Camp** *2016 – September 2016*  
+**Brant Lake Camp** *June 2016 – September 2016*  
 Intern *New York Stata, USA*
 
 # Service and Responsibility
