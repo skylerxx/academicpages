@@ -54,17 +54,15 @@ Conference Support Staff
 * **Modelling the discontinuous change with growth model**  
 Warwick Doctoral College *August 2021*
 
-* **Modelling the discontinuous change with growth model**
-Warwick Doctoral College *August 2021*
-
-* **Digital firms and digital ecosystems: Thoughts on their internationalisation**
+* **Digital firms and digital ecosystems: Thoughts on their internationalisation**  
 Henley Business School *November 2019*
 
-* **Artificial intelligence and digital healthcare: A Patient’s Perspective.**
+* **Artificial intelligence and digital healthcare: A Patient’s Perspective**  
 International Digital Healthcare and Medical Analytics Conference *June 2019*
 
-* **Alliance MBS Doctoral Research Conference**
+* **lliance MBS Doctoral Research Conference**  
 University of Manchester *May 2019*
+
 
 # Affiliation 
 * Strategy Management Society 
