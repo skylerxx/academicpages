@@ -14,6 +14,7 @@ I recently initiated the Methodology Networking Series with [Carlo Hofer](https:
 
 In October 2021, I took on the role as the Head of Nudge Unit at [Warwick Behaviour Insights Team (WBIT)](https://warwick.ac.uk/research/priorities/behaviour-brain-society/research/wbit/). We are engaged in collaborative research by applying insights from behavioural science and social psychology to create nudges for local businesses and communities as well as individual wellbeing.
 
+Outside my work, I play tennis. 
 
 
 
