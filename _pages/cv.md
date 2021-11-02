@@ -20,6 +20,11 @@ redirect_from:
 **Warwick Behavioural Insight Team (WBIT)** *October 2021 – Present*
 Nudge Unit Lead *Coventry, UK*
 
+
+# Experience
+**Government Office for Science** *November 2019 - Present*  
+Technical Specialist, Emerging Technology (Contractor) *London, UK*
+
 **University of Warwick** *September 2021 – Present* 
 Senior Graduate Teaching Assistant *Coventry, UK*
 
