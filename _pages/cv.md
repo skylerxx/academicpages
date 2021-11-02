@@ -24,13 +24,10 @@ Nudge Unit Lead *Coventry, UK*
 **University of Warwick** *September 2021 – Present*  
 Senior Graduate Teaching Assistant *Coventry, UK*
 
-**ational University of Ireland Galway** *January 2020 – September 2020*  
+**National University of Ireland Galway** *January 2020 – September 2020*  
 Research Assistant *Galway, Ireland*
 
-**National University of Ireland Galway** *January 2020 – September 2020*
-Research Assistant *Galway, Ireland*
-
-**Brant Lake Camp** *2016 – September 2016*
+**Brant Lake Cam** *2016 – September 2016*  
 Intern *New York Stata, USA*
 
 # Service and Responsibility
