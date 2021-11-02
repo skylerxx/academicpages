@@ -36,8 +36,7 @@ Intern *New York Stata, USA*
 **Warwick Doctoral College** *October 2021 – Present*  
 Co-founder of Methodology Series 
 
-
-**Warwick Business School Doctoral Programme** *November 2020 – September 2021*
+**Warwick Business School Doctoral Programme** *November 2020 – September 2021*  
 PhD student Representative
 
 **Strategic Management Society (SMS)** *October 2020 – Present* 
