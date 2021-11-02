@@ -39,7 +39,7 @@ Co-founder of Methodology Series
 **Warwick Business School Doctoral Programme** *November 2020 – September 2021*  
 PhD student Representative
 
-**Strategic Management Society (SMS)** *October 2020 – Present* 
+**Strategic Management Society (SMS)** *October 2020 – Present*  
 Conference Support Staff
 
 # Awards and Honours 
