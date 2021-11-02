@@ -51,6 +51,9 @@ Conference Support Staff
 
 # Talks and Presentations
 
+* **Modelling the discontinuous change with growth model**  
+Warwick Doctoral College *August 2021*
+
 * **Modelling the discontinuous change with growth model**
 Warwick Doctoral College *August 2021*
 
