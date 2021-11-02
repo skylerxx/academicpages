@@ -17,11 +17,12 @@ redirect_from:
  Received distinction for both taught modules and final dissertation.
 
 # Experience
-**Warwick Behavioural Insight Team (WBIT)** *October 2021 – Present*
-Nudge Unit Lead *Coventry, UK*
 
 **Warwick Behavioural Insight Team (WBIT)** *October 2021 – Present*  
 Nudge Unit Lead *Coventry, UK*
+
+**University of Warwick** *September 2021 – Present*  
+Senior Graduate Teaching Assistant *Coventry, UK*
 
 **University of Warwick** *September 2021 – Present* 
 Senior Graduate Teaching Assistant, *Coventry, UK*
