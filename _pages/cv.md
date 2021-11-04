@@ -29,7 +29,7 @@ Senior Graduate Teaching Assistant *Coventry, UK*
 Research Assistant *Galway, Ireland*
 
 **Brant Lake Camp** *June 2016 – September 2016*  
-Intern *New York Stata, USA*
+Intern *New York State, USA*
 
 # Service and Responsibility
 
