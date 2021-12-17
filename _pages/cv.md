@@ -34,7 +34,7 @@ Intern *New York State, USA*
 # Service and Responsibility
 
 **Warwick Doctoral College** *October 2021 – Present*  
-Co-founder of Methodology Series 
+Co-founder of Quantitative Solutions & Networking Series 
 
 **Warwick Business School Doctoral Programme** *November 2020 – September 2021*  
 PhD student Representative
