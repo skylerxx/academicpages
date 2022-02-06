@@ -37,7 +37,7 @@ Intern *New York State, USA*
 Co-founder of Quantitative Solutions & Networking Series 
 
 **Warwick Business School Doctoral Programme** *November 2020 – September 2021*  
-PhD student Representative
+PhD Student Representative
 
 **Strategic Management Society (SMS)** *October 2020 – Present*  
 Conference Support Staff
@@ -64,7 +64,7 @@ International Digital Healthcare and Medical Analytics Conference *June 2019*
 University of Manchester *May 2019*
 
 
-# Affiliation 
+# Academic Affiliation 
 * Strategic Management Society (SMS)
 * Academy of Management (AoM) 
 
