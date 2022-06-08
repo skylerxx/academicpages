@@ -44,12 +44,16 @@ Conference Support Staff
 
 # Awards and Honours 
  
+* Outstanding Contribution to Teaching Award *Warwick Business School (2022)*
 * Event Fund for Quantitative Research Method *Warwick Doctoral College (2021)*
 * PhD Scholarship Award *University of Warwick (2020)*
 * Alan Rugman Research Scholarship *Henley Business school, University of Reading (2019)*
 * Research Fellow Scholarship *University of National University of Ireland Galway (2019)*
 
 # Talks and Presentations
+
+* **Laggards Matter: Discover the role of laggard employees in team performance**  
+WBS Behavioural Science Group *May 2022*
 
 * **Modelling the discontinuous change with growth model**  
 Warwick Doctoral College *August 2021*
