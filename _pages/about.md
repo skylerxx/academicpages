@@ -14,7 +14,7 @@ I recently initiated [Quantitative Solutions & Networking Series](https://warwic
 
 In October 2021, I took on the role as the Head of the Nudge Unit at [Warwick Behaviour Insights Team (WBIT)](https://warwick.ac.uk/research/priorities/behaviour-brain-society/research/wbit/). We are engaged in collaborative research by applying insights from behavioural science and social psychology to create nudges for local businesses and communities as well as individual wellbeing.
 
-Outside my work, I play tennis (LTA player ID: 114287406. ITF number: 21.5 | Singles). 
+Outside my research, I play tennis (LTA player ID: 114287406. ITF number: 21.5 | Singles). 
 
 
 
