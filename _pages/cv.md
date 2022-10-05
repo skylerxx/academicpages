@@ -14,7 +14,7 @@ redirect_from:
 **The University of Warwick** *PhD Candidate*  
 Quantitative track in the MPhil stage. Passed with Distinction.
 
-**The University of Manchester** *Master of Research (Distinction)*  
+**The University of Manchester** *MA (Distinction)*  
 Received distinction for both taught modules and master dissertation.
 
 # Experience
