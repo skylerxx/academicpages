@@ -52,6 +52,9 @@ Conference Support Staff
 
 # Talks and Presentations
 
+* **Leveraging social capital in an inclusive organisation**  
+Warwick Professional Networks at Shard, London *Septermber 2022*
+
 * **Laggards Matter: Discover the role of laggard employees in team performance**  
 WBS Behavioural Science Group *May 2022*
 
