@@ -19,6 +19,9 @@ Received distinction for both taught modules and master dissertation.
 
 # Experience
 
+**The Alan Turing institute** *December 2022*  
+Researcher and Project Facilitator *London, UK*
+
 **Warwick Behavioural Insight Team (WBIT)** *October 2021 – Present*  
 The Nudge Unit Lead *Coventry, UK*
 
