@@ -60,6 +60,7 @@ Warwick Professional Networks at Shard, London *Septermber 2022*
 
 * **Laggards Matter: Discover the role of laggard employees in team performance**  
 Ruhr-Universität Bochum, Germany *November 2022*
+
 WBS Behavioural Science Group *May 2022*
 
 * **Modelling the discontinuous change with growth model**  
