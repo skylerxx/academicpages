@@ -19,7 +19,7 @@ Received distinction for both taught modules and master dissertation.
 
 # Experience
 
-**The Alan Turing institute** *December 2022*  
+**The Alan Turing Institute** *December 2022*  
 Researcher *London, UK*
 
 **Warwick Behavioural Insight Team (WBIT)** *October 2021 – Present*  
@@ -36,7 +36,7 @@ Intern *New York State, USA*
 
 # Service and Responsibility
 
-**The Alan Turing institute** *December 2022*  
+**The Alan Turing Institute** *December 2022*  
 DSG Project Facilitator 
 
 **Warwick Doctoral College** *October 2021 – Present*  
