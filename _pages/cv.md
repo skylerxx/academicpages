@@ -20,7 +20,7 @@ Received distinction for both taught modules and master dissertation.
 # Experience
 
 **The Alan Turing institute** *December 2022*  
-Researcher and Project Facilitator *London, UK*
+Researcher *London, UK*
 
 **Warwick Behavioural Insight Team (WBIT)** *October 2021 – Present*  
 The Nudge Unit Lead *Coventry, UK*
@@ -35,6 +35,9 @@ Research Assistant *Galway, Ireland*
 Intern *New York State, USA*
 
 # Service and Responsibility
+
+**The Alan Turing institute** *December 2022*  
+DSG Project Facilitator 
 
 **Warwick Doctoral College** *October 2021 – Present*  
 Co-founder of Quantitative Solutions & Networking Series 
@@ -55,12 +58,13 @@ Conference Support Staff
 
 # Talks and Presentations
 
+* **Laggards Matter: Discover the role of laggard employees in team performance**  
+  WBS Behavioural Science Group *May 2022*  
+  Ruhr-Universität Bochum, Germany *November 2022*  
+  AMA Winter Academic Conference, USA *Feb 2023*
+
 * **Leveraging social capital in an inclusive organisation**  
 Warwick Professional Networks at Shard, London *Septermber 2022*
-
-* **Laggards Matter: Discover the role of laggard employees in team performance**  
-Ruhr-Universität Bochum, Germany *November 2022* 
-WBS Behavioural Science Group *May 2022*
 
 * **Modelling the discontinuous change with growth model**  
 Warwick Doctoral College *August 2021*
