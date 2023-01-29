@@ -55,24 +55,24 @@ Conference Support Staff
 
 # Talks and Presentations
 
-**Leveraging social capital in an inclusive organisation**  
- * Warwick Professional Networks at Shard, London *Septermber 2022*
+* **Leveraging social capital in an inclusive organisation**  
+Warwick Professional Networks at Shard, London *Septermber 2022*
 
-**Laggards Matter: Discover the role of laggard employees in team performance**  
- * Ruhr-Universität Bochum, Germany *November 2022* 
- * WBS Behavioural Science Group *May 2022*
+* **Laggards Matter: Discover the role of laggard employees in team performance**  
+Ruhr-Universität Bochum, Germany *November 2022* 
+WBS Behavioural Science Group *May 2022*
 
-**Modelling the discontinuous change with growth model**  
- * Warwick Doctoral College *August 2021*
+* **Modelling the discontinuous change with growth model**  
+Warwick Doctoral College *August 2021*
 
-**Digital firms and digital ecosystems: Thoughts on their internationalisation**  
- * Henley Business School *November 2019*
+* **Digital firms and digital ecosystems: Thoughts on their internationalisation**  
+Henley Business School *November 2019*
 
-**Artificial intelligence and digital healthcare: The patient’s perspective**  
- * International Digital Healthcare and Medical Analytics Conference *June 2019*
+* **Artificial intelligence and digital healthcare: The patient’s perspective**  
+International Digital Healthcare and Medical Analytics Conference *June 2019*
 
-**Alliance MBS Doctoral Research Conference**  
-* University of Manchester *May 2019*
+* **Alliance MBS Doctoral Research Conference**  
+University of Manchester *May 2019*
 
 
 # Academic Affiliation 
