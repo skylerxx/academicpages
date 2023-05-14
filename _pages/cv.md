@@ -40,7 +40,7 @@ Intern *New York State, USA*
 DSG Project Facilitator 
 
 **Warwick Doctoral College** *October 2021 – Present*  
-Co-founder of Quantitative Solutions & Networking Series 
+Co-founder of Quantitative Solution Network 
 
 **Warwick Business School Doctoral Programme** *November 2020 – September 2021*  
 PhD Student Representative
@@ -51,7 +51,7 @@ Conference Support Staff
 # Awards and Honours 
  
 * Outstanding Contribution to Teaching Award *Warwick Business School (2022)*
-* Event Fund for Quantitative Research Method *Warwick Doctoral College (2021)*
+* Research Engagement Fund for Quantitative Solution Network *Warwick Doctoral College (2021)*
 * PhD Scholarship Award *University of Warwick (2020)*
 * Alan Rugman Research Scholarship *Henley Business school, University of Reading (2019)*
 * Research Fellow Scholarship *University of National University of Ireland Galway (2019)*
