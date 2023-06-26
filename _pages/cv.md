@@ -50,6 +50,7 @@ Conference Support Staff
 
 # Awards and Honours 
  
+* PhD Enrichment Scheme Grant *The Alan Turing Institute (2023)*
 * Outstanding Contribution to Teaching Award *Warwick Business School (2022)*
 * Research Engagement Fund for Quantitative Solution Network *Warwick Doctoral College (2021)*
 * PhD Scholarship Award *University of Warwick (2020)*
