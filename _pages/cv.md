@@ -59,10 +59,6 @@ Conference Support Staff
 
 # Talks and Presentations
 
-
-* **Beyond the Apex: Momentum, Paradox and Ripples of Stars in Competitive Organisations**
-WBS Behavioural Science Group *Jun 2023*
-
 * **Beyond the Apex: Momentum, Paradox and Ripples of Stars in Competitive Organisations**  
 WBS Behavioural Science Group *Jun 2023*
 
