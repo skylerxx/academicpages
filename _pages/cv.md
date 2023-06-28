@@ -59,6 +59,10 @@ Conference Support Staff
 
 # Talks and Presentations
 
+
+* **Beyond the Apex: Momentum, Paradox and Ripples of Stars in Competitive Organisations**
+  WBS Behavioural Science Group *Jun 2023*
+
 * **Laggards Matter: Discover the role of laggard employees in team performance**  
   WBS Behavioural Science Group *May 2022*  
   Ruhr-Universität Bochum, Germany *November 2022*  
