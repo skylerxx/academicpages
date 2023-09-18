@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a doctoral researcher in the [Finance and Economics program](https://www.turing.ac.uk/research/research-programmes/finance-and-economics) at The Alan Turing Institute, where my project focuses on panel data modelling and machine learning in economics and behavioral science. Starting in October 2023, I'll be joining [Imperial College London](https://www.imperial.ac.uk/business-school/faculty-research/research-centres/) as a visiting PhD fellow.
+I'm a doctoral researcher in the [Finance and Economics program](https://www.turing.ac.uk/research/research-programmes/finance-and-economics) at The Alan Turing Institute, where my project focuses on panel data modelling and machine learning in economics and behavioral science. 
 
 My PhD is also trained at [Warwick Business School](https://www.wbs.ac.uk/), University of Warwick, after I completed my study at the [University of Manchester](https://www.manchester.ac.uk/). My reserach combines microeconomic theory with econometrics and machine learning to study productivity, mobility and sustainable development at both the individual and the collective level. In particular, I’m interested in modelling dynamic change (e.g. discontinuous growth) and causal inference (e.g. fixed effects, instrumental variables and difference-in-difference) with longitudinal data, especially for modern data sets with high-dimension and high-frequency observations.
 
