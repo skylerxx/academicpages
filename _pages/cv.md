@@ -14,9 +14,6 @@ redirect_from:
 **The Alan Turing Institute** *PhD Student*  
 Quantitative Economics
 
-**Imperial College London** *PhD Visiting Student*  
-Quantitative Economics
-
 **The University of Warwick** *PhD Candidate*  
 Quantitative track in the MPhil stage. Passed with Distinction.
 
@@ -54,7 +51,7 @@ Co-founder of Quantitative Solution Network
 **Warwick Business School Doctoral Programme** *November 2020 – September 2021*  
 PhD Student Representative
 
-**Strategic Management Society (SMS)** *October 2020 – Present*  
+**Strategic Management Society (SMS)** *October 2020 – October 2022*  
 Conference Support Staff
 
 # Awards and Honours 
@@ -69,30 +66,30 @@ Conference Support Staff
 # Talks and Presentations
 
 * **Dynamic Behaviours and Multidimensional Panel Data**  
-Finance Group, Warwick Business School  *November 2023*
+Finance Group, Warwick Business School.  *November 2023*
 
 * **Beyond the Apex: Momentum, Paradox and Ripples of Stars in Competitive Organisations**  
-Behavioural Science Group, Warwick Business School  *Jun 2023*
+Behavioural Science Group, Warwick Business School.  *Jun 2023*
 
 * **Laggards Matter: Discover the role of laggard employees in team performance**  
-  WBS Behavioural Science Group *May 2022*  
-  Ruhr-Universität Bochum, Germany *November 2022*  
-  AMA Winter Academic Conference, USA *Feb 2023*
+  WBS Behavioural Science Group. *May 2022*  
+  Ruhr-Universität Bochum, Germany. *November 2022*  
+  AMA Winter Academic Conference. USA *Feb 2023*
 
 * **Leveraging social capital in an inclusive organisation**  
-Warwick Professional Networks at Shard, London *Septermber 2022*
+Warwick Professional Networks at The Shard, London. *Septermber 2022*
 
 * **Modelling the discontinuous change with growth model**  
-Warwick Doctoral College *August 2021*
+Warwick Doctoral College. *August 2021*
 
 * **Digital firms and digital ecosystems: Thoughts on their internationalisation**  
-Henley Business School *November 2019*
+Henley Business School. *November 2019*
 
 * **Artificial intelligence and digital healthcare: The patient’s perspective**  
-International Digital Healthcare and Medical Analytics Conference *June 2019*
+International Digital Healthcare and Medical Analytics Conference. *June 2019*
 
 * **Alliance MBS Doctoral Research Conference**  
-University of Manchester *May 2019*
+University of Manchester. *May 2019*
 
 
 # Academic Affiliation 
