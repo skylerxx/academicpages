@@ -11,6 +11,12 @@ redirect_from:
 
 # Education
 
+**The Alan Turing Institute** *PhD Student*  
+Quantitative Economics
+
+**Imperial College London** *PhD Visiting Student*  
+Quantitative Economics
+
 **The University of Warwick** *PhD Candidate*  
 Quantitative track in the MPhil stage. Passed with Distinction.
 
@@ -19,10 +25,13 @@ Received distinction for both taught modules and master dissertation.
 
 # Experience
 
+**Imperial College London** *Novermber 2022 – Present*  
+PhD visiting student *London, UK*
+
 **The Alan Turing Institute** *December 2022*  
 Researcher *London, UK*
 
-**Warwick Behavioural Insight Team (WBIT)** *October 2021 – Present*  
+**Warwick Behavioural Insight Team (WBIT)** *October 2021 – May 2023*  
 The Nudge Unit Lead *Coventry, UK*
 
 **University of Warwick** *September 2021 – Present*  
@@ -59,8 +68,11 @@ Conference Support Staff
 
 # Talks and Presentations
 
+* **Dynamic Behaviours and Multidimensional Panel Data**  
+Finance Group, Warwick Business School  *November 2023*
+
 * **Beyond the Apex: Momentum, Paradox and Ripples of Stars in Competitive Organisations**  
-WBS Behavioural Science Group *Jun 2023*
+Behavioural Science Group, Warwick Business School  *Jun 2023*
 
 * **Laggards Matter: Discover the role of laggard employees in team performance**  
   WBS Behavioural Science Group *May 2022*  
