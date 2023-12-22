@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a doctoral researcher in quantitative economics at [The Alan Turing Institute](https://www.turing.ac.uk/). I currently hold a visiting PhD position at Imperial College London.
+I'm a doctoral researcher in quantitative economics at [The Alan Turing Institute](https://www.turing.ac.uk/). I currently hold a visiting PhD position at [Imperial College London](https://www.imperial.ac.uk/).
 
 My research is also trained at [Warwick Business School](https://www.wbs.ac.uk/), University of Warwick, after I completed my study at the [University of Manchester](https://www.manchester.ac.uk/). My PhD focuses on quantitative economics and behavioural science, which combines economic theory with econometrics and machine learning to study market dynamics, resource allocation efficiency, and strategic decision-making processes within organizations and among stakeholders. In particular, I’m interested in modelling dynamic change (e.g. multivariate time series, discontinuous growth), causal inference (e.g. fixed effects, instrumental variables and difference-in-difference), and complex network with longitudinal data, especially for modern data sets with high-dimension and high-frequency observations.
 
