@@ -11,6 +11,9 @@ main:
     
   - title: "Research"
     url: /portfolio/
+
+  - title: "Industry"
+    url: /Industry/
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
