@@ -1,15 +1,14 @@
 ---
 title: "Laggards Matter: The Role of Low-performing Employees in Team Performance"
-excerpt: "In this project, we shed light on the positive contribution that low-performing employees may bring to their co-workers and organizations."
+excerpt: "In this project, we shed light on the positive contribution that low-performing employees may bring to their team members and organizations."
 collection: portfolio
 ---
 
 ### Abstract
 
 
-Low-performing employees, the laggards of a team, are often looked down upon and receive little credit from their organizations compared to high-achieving employees. In this study, we focus on the role of laggards in an organizational context and shed light on their contributions to the team performance. Drawing on organization theory and behavioral strategy literature, we theorize that the improvement of a laggard’s performance nudges the whole team to achieve higher performance because the laggard’s coworkers experience “last-place aversion”. 
+Low-performing employees, the 'laggards' of a team, are often looked down upon and receive little credit from their organizations compared to high-achieving employees. In this study, we focus on the role of laggards in an organizational context and shed light on their contributions to the team performance. Drawing on the literature from organization theory and behavioral economics, we propose that the improvement of a laggard performance can serve as a ‘nudge’ for enhancing the overall team's output, because the laggard’s team members experience “last-place aversion”. We test our proposition using panel data from an industrial trading company spanning eight years, focusing on the interplay between the laggards and their team members. We identify our effects using fixed-effects estimators and instrumental variable approach, together with a control function method. Results confirm that a laggard performance affects the performance of the remaining team. This effect is stronger when the laggard performance approaches their penultimate colleague in the team as well as other team members. Our findings not only enrich organizational and strategy research but also offer practical insights for managers aiming to optimize team performance.
 
-We test this proposition using panel data from an industrial trading company spanning 8 years with over 3,300 interactions between laggards and their teams. We identify our effects using fixed-effects estimators and lagged dependent variable regressions, together with an instrumental variable approach and control function methods. Results confirm that a laggard’s performance affects the performance of the remaining team. This effect is stronger when the laggard’s performance is similar with the performance of other team members. These results contribute to organization and strategy research by identifying the impact of individual-level behaviors on organizational capabilities.
 
 
 *Keywords* : low-performing employees, team performance, last-place aversion, behavioral strategy
