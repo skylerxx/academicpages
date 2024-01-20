@@ -1,6 +1,6 @@
 ---
 title: "Rank Dynamics and Performance in Competitive Organizations"
-excerpt: "Rank changes"
+excerpt: "How do the dynamics of complex rank changes, often overlooked in competitive contexts, hold the key to redefining success and challenging the established notions of tournament theory?"
 collection: portfolio
 ---
 
