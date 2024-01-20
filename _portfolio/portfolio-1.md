@@ -1,6 +1,6 @@
 ---
 title: "Laggards Matter: The Role of Low-performing Employees in Team Performance"
-excerpt: "In this project, we highlight the potential positive impact that low-performing employees can have on their colleagues within an organization."
+excerpt: "In this project, we highlight the potential positive impact that low-performing employees can have on their colleagues in the organization."
 collection: portfolio
 ---
 
