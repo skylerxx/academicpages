@@ -236,6 +236,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+# _Industriy
+  - scope:
+      path: ""
+      type: Industry
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
