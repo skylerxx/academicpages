@@ -91,9 +91,7 @@ International Digital Healthcare and Medical Analytics Conference. *June 2019*
 * **Alliance MBS Doctoral Research Conference**  
 University of Manchester. *May 2019*
 
-
-# Academic Affiliation 
-* Strategic Management Society (SMS)
-* Academy of Management (AoM) 
-
+# Skills
+* Programming & Softwares: R, Stata, Python, NVIVO, Qualtrics, LaTeX, Git, Adobe Premiere Pro.
+* The Lawn Tennis Association UK accredited tennis coach (license ID: CO059918).
 
