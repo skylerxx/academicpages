@@ -1,6 +1,6 @@
 ---
 title: "Johnson Matthey: Dynamic Modeling for Green Energy Production: Paving the Way to a Net-Zero Future"
-excerpt: "Can we forecast multivariate time series data, with high-dimensional predictors and outcomes simultaneously? <br/><img src='/images/JM_NARX2.png'>"
+excerpt: "Can we forecast multivariate time series data, with high-dimensional predictors and outcomes simultaneously? <br/><img src='/images/500x300.png'>"
 collection: Industry
 ---
 
