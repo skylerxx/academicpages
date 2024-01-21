@@ -10,4 +10,4 @@ While business-to-business (B2B) e-commerce channels offer significant potential
 
 *Keywords*: New e-commerce channel adoption, industrial selling, Growth modelling 
 
-(Submitted.The manuscript will be uploaded here.)
+(Submitted. The manuscript will be uploaded here.)
