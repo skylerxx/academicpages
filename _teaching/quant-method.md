@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/quant-method
 venue: "University of Warwick"
-date: 2021/2022
+date: 2021-01-01
 ---
 
 Teaching Assistant for Professor Jerker Denrell. 
