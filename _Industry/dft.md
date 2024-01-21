@@ -1,6 +1,6 @@
 ---
 title: "UK Department for Transport: Exploring the Dynamics of Commuting and Mobility in the UK"
-excerpt: "Diving into the heart of UK's daily hustle, this study turns mobile data into a roadmap for smarter, fairer commuting, revealing surprising truths about how we travel, why, and what could make it better? <img src='https://raw.githubusercontent.com/skylerxx/academicpages/master/images/DfT_image.png' width='500' height='400'>"
+excerpt: "Diving into the heart of UK's daily hustle, this study turns mobile data into a roadmap for smarter, fairer commuting, revealing surprising truths about how we travel, why, and what could make it better. <br/> <img src='https://raw.githubusercontent.com/skylerxx/academicpages/master/images/DfT_image.png' width='500' height='400'>"
 collection: Industry
 ---
 
