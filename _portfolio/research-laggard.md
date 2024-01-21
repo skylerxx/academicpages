@@ -10,4 +10,4 @@ Low-performing employees, the 'laggards' of a team, are often looked down upon a
 
 *Keywords* : low-performing employees, team performance, last-place aversion, behavioral strategy
 
-
+(Preparing for sumbission. The manuscirpt will be uploaed here.)
