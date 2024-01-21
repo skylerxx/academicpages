@@ -1,1 +1,1 @@
-## Industrail cases
+## Industrial Cases 
