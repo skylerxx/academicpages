@@ -16,7 +16,7 @@ I recently initiated [Quantitative Solutions & Networking Series](https://warwic
 
 From 2022 to 2023, I was the member of the Data Study Group at The Alan Turing Institute, collaborating with both public sectors (e.g. [Department for Transport](https://www.gov.uk/government/organisations/department-for-transport)) and FTSE-listed companies (e.g. [Johnson Matthey PLC](https://matthey.com/)) to develop quantitative strategies and apply noval machine learning methods to investigate their empirical challenges. In 2021, I took on the role as the Head of the Nudge Unit at the [Warwick Behaviour Insights Team (WBIT)](https://warwick.ac.uk/research/priorities/behaviour-brain-society/research/wbit/). 
 
-Outside my research, I play tennis. 
+Outside of my work, I play tennis. 
 
 
 
