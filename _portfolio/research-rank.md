@@ -1,5 +1,5 @@
 ---
-title: "Rank Dynamics in Competitive Systems"
+title: "The Dynamics of Ranking in the Competitive System"
 excerpt: "How do the dynamics of complex rank changes, often overlooked in competitive environments, hold the key to redefining success and challenging the established notions of tournament theory?"
 collection: portfolio
 ---
