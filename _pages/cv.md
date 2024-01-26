@@ -42,8 +42,8 @@ Intern *New York State, USA*
 
 # Service and Responsibility
 
-**The Alan Turing Institute** *December 2022*  
-DSG Project Facilitator 
+**The Alan Turing Institute** *2022 - 2023*  
+Member of Data Study Group & Project Facilitator 
 
 **Warwick Doctoral College** *October 2021 – Present*  
 Co-founder of Quantitative Solution Network 
@@ -74,13 +74,15 @@ Behavioural Science Group, Warwick Business School.  *Jun 2023*
 * **Laggards Matter: Discover the role of laggard employees in team performance**  
   WBS Behavioural Science Group. *May 2022*  
   Ruhr-Universität Bochum, Germany. *November 2022*  
-  AMA Winter Academic Conference. USA *Feb 2023*
+  AMA Winter Academic Conference. USA *Feb 2023*  
+  WBS Organisation and Work Group. *Oct 2023*
 
 * **Leveraging social capital in an inclusive organisation**  
 Warwick Professional Networks at The Shard, London. *Septermber 2022*
 
 * **Modelling the discontinuous change with growth model**  
-Warwick Doctoral College. *August 2021*
+  Warwick Doctoral College. *August 2021*  
+  WBS Marketing Group. *Jan 2022*
 
 * **Digital firms and digital ecosystems: Thoughts on their internationalisation**  
 Henley Business School. *November 2019*
