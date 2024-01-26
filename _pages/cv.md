@@ -78,7 +78,7 @@ Behavioural Science Group, Warwick Business School.  *Jun 2023*
   WBS Organisation and Work Group. *Oct 2023*
 
 * **Leveraging social capital in an inclusive organisation**  
-Warwick Professional Networks at The Shard, London. *Septermber 2022*
+Warwick MBA Professional Networks at The Shard, London. *Septermber 2022*
 
 * **Modelling the discontinuous change with growth model**  
   Warwick Doctoral College. *August 2021*  
