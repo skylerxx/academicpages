@@ -66,7 +66,7 @@ Conference Support Staff
 # Talks and Presentations
 
 * **Dynamic Behaviours and Multidimensional Panel Data**  
-Finance Group, Warwick Business School.  *November 2023*
+Finance Group, Warwick Business School.  *Nov 2023*
 
 * **Beyond the Apex: Momentum, Paradox and Ripples of Stars in Competitive Organisations**  
 Behavioural Science Group, Warwick Business School.  *Jun 2023*
@@ -78,17 +78,17 @@ Behavioural Science Group, Warwick Business School.  *Jun 2023*
   WBS Organisation and Work Group. *Oct 2023*
 
 * **Leveraging social capital in an inclusive organisation**  
-Warwick MBA Professional Networks at The Shard, London. *Septermber 2022*
+Warwick MBA Professional Networks at The Shard, London. *Sep 2022*
 
 * **Modelling the discontinuous change with growth model**  
-  Warwick Doctoral College. *August 2021*  
+  Warwick Doctoral College. *Aug 2021*  
   WBS Marketing Group. *Jan 2022*
 
 * **Digital firms and digital ecosystems: Thoughts on their internationalisation**  
-Henley Business School. *November 2019*
+Henley Business School. *Nov 2019*
 
 * **Artificial intelligence and digital healthcare: The patient’s perspective**  
-International Digital Healthcare and Medical Analytics Conference. *June 2019*
+International Digital Healthcare and Medical Analytics Conference. *Jun 2019*
 
 * **Alliance MBS Doctoral Research Conference**  
 University of Manchester. *May 2019*
