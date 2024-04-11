@@ -22,11 +22,11 @@ Received distinction for both taught modules and master dissertation.
 
 # Experience
 
-**Imperial College London** *Novermber 2022 – Present*  
+**Imperial College London** *Novermber 2023 – Present*  
 PhD visiting student *London, UK*
 
-**The Alan Turing Institute** *December 2022*  
-Researcher *London, UK*
+**The Alan Turing Institute** *December 2022 – Present*  
+Member of Data Study Group *London, UK*
 
 **Warwick Behavioural Insight Team (WBIT)** *October 2021 – May 2023*  
 The Nudge Unit Lead *Coventry, UK*
@@ -42,8 +42,11 @@ Intern *New York State, USA*
 
 # Service and Responsibility
 
+**Economics Reading Group and Data Briefing** *Jan 2024 – Present*  
+Organiser at The Alan Turing Institute
+
 **The Alan Turing Institute** *2022 - 2023*  
-Member of Data Study Group & Project Facilitator 
+Project Facilitator of Data Study Group
 
 **Warwick Doctoral College** *October 2021 – Present*  
 Co-founder of Quantitative Solution Network 
