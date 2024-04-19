@@ -98,6 +98,6 @@ International Digital Healthcare and Medical Analytics Conference. *Jun 2019*
 University of Manchester. *May 2019*
 
 # Skills
-* Programming & Softwares: R, Python, Stata, NVIVO, Qualtrics, LaTeX, Git, Adobe Premiere Pro.
+* Programming & Softwares: R, Python, Stata, NVIVO, Qualtrics, $\LaTeX$, Git, Adobe Premiere Pro.
 * The Lawn Tennis Association UK accredited tennis coach (license ID: CO059918).
 
