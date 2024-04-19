@@ -15,14 +15,14 @@ redirect_from:
 Quantitative Economics
 
 **The University of Warwick** *PhD Candidate*  
-Quantitative track in the MPhil stage. Passed with Distinction.
+Passed with Distinction in the MPhil stage.
 
 **The University of Manchester** *MA (Distinction)*  
-Received distinction for both taught modules and master dissertation.
+Received distinction for both taught modules and final dissertation.
 
 # Experience
 
-**Imperial College London** *Novermber 2023 – Present*  
+**Imperial College London** *October – Present*  
 PhD visiting student *London, UK*
 
 **The Alan Turing Institute** *December 2022 – Present*  
@@ -31,7 +31,7 @@ Member of Data Study Group *London, UK*
 **Warwick Behavioural Insight Team (WBIT)** *October 2021 – May 2023*  
 The Nudge Unit Lead *Coventry, UK*
 
-**University of Warwick** *September 2021 – Present*  
+**University of Warwick** *September 2021 – September 2023*  
 Senior Graduate Teaching Assistant *Coventry, UK*
 
 **National University of Ireland Galway** *January 2020 – September 2020*  
@@ -58,7 +58,8 @@ PhD Student Representative
 Conference Support Staff
 
 # Awards and Honours 
- 
+
+* AMA-Sheth Foundation Doctoral Fellowship (2024)*
 * PhD Enrichment Scheme Grant *The Alan Turing Institute (2023)*
 * Outstanding Contribution to Teaching Award *Warwick Business School (2022)*
 * Research Engagement Fund for Quantitative Solution Network *Warwick Doctoral College (2021)*
@@ -97,6 +98,6 @@ International Digital Healthcare and Medical Analytics Conference. *Jun 2019*
 University of Manchester. *May 2019*
 
 # Skills
-* Programming & Softwares: R, Stata, Python, NVIVO, Qualtrics, LaTeX, Git, Adobe Premiere Pro.
+* Programming & Softwares: R, Python, Stata, NVIVO, Qualtrics, LaTeX, Git, Adobe Premiere Pro.
 * The Lawn Tennis Association UK accredited tennis coach (license ID: CO059918).
 
