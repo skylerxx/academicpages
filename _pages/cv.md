@@ -22,7 +22,7 @@ Received distinction for both taught modules and final dissertation.
 
 # Experience
 
-**Imperial College London** *October – Present*  
+**Imperial College London** *October 2023 – Present*  
 PhD visiting student *London, UK*
 
 **The Alan Turing Institute** *December 2022 – Present*  
