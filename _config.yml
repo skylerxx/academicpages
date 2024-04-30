@@ -83,11 +83,11 @@ author:
   name             : "Skyler Xie"
   avatar           : "Skyler_Xie_id.jpg"
   bio              : "Doctoral Researcher"
-  location         : "London/Manchester, UK"
-  employer         :
+  location         : "London, UK"
+  employer         : "https://www.turing.ac.uk/people/enrichment-students/skyler-xie"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "Skyler.Xie@warwick.ac.uk"
+  email            : "sxie@turing.ac.uk"
   researchgate     :  #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
