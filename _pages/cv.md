@@ -54,8 +54,6 @@ Co-founder of Quantitative Solution Network
 **Warwick Business School Doctoral Programme** *November 2020 – September 2021*  
 PhD Student Representative
 
-**Strategic Management Society (SMS)** *October 2020 – October 2022*  
-Conference Support Staff
 
 # Awards and Honours 
 
@@ -68,6 +66,9 @@ Conference Support Staff
 * Research Fellow Scholarship *University of National University of Ireland Galway (2019)*
 
 # Talks and Presentations
+
+* **The Game We All Play: Navigating Success Through Econometrics and Network Science**  
+Pint of Science UK.  *May 2024*
 
 * **Dynamic Behaviours and Multidimensional Panel Data**  
 Finance Group, Warwick Business School.  *Nov 2023*
