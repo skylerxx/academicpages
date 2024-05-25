@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Methods for Business"
+title: "Quantitative Methods"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/quant-method
