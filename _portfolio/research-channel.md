@@ -10,4 +10,4 @@ While business-to-business e-commerce channels offer significant potential, indu
 
 *Keywords*: New e-commerce channel adoption, industrial selling, growth modelling 
 
-(In submission. The manuscript will be uploaded here.)
+(Under review at a 4* [ABS] journal. The manuscript will be uploaded here.)
