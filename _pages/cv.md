@@ -34,9 +34,6 @@ The Nudge Unit Lead *Coventry, UK*
 **University of Warwick** *September 2021 – September 2023*  
 Senior Graduate Teaching Assistant *Coventry, UK*
 
-**National University of Ireland Galway** *January 2020 – September 2020*  
-Research Assistant *Galway, Ireland*
-
 **Brant Lake Camp** *June 2016 – September 2016*  
 Intern *New York State, USA*
 
@@ -57,13 +54,14 @@ PhD Student Representative
 
 # Awards and Honours 
 
-* AMA-Sheth Foundation Doctoral Fellowship (2024) 
-* PhD Enrichment Scheme Grant *The Alan Turing Institute (2023)*
-* Outstanding Contribution to Teaching Award *Warwick Business School (2022)*
-* Research Engagement Fund for Quantitative Solution Network *Warwick Doctoral College (2021)*
-* PhD Scholarship Award *University of Warwick (2020)*
-* Alan Rugman Research Scholarship *Henley Business school, University of Reading (2019)*
-* Research Fellow Scholarship *University of National University of Ireland Galway (2019)*
+* Outstanding Doctoral Student Achievements. *University of Warwick (2024)*
+* AMA-Sheth Foundation Doctoral Fellowship (2024)
+* PhD Enrichment Scheme Grant. *The Alan Turing Institute (2023)*
+* Outstanding Contribution to Teaching Award. *Warwick Business School (2022)*
+* Research Engagement Fund for Quantitative Solution Network. *Warwick Doctoral College (2021)*
+* PhD Scholarship Award. *University of Warwick (2020)*
+* Alan Rugman Research Scholarship. *Henley Business School, University of Reading (2019)*
+* Research Grant. *University of National University of Ireland Galway (2019)*
 
 # Talks and Presentations
 
