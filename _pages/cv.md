@@ -20,12 +20,12 @@ Passed with Distinction in the MPhil stage.
 **The University of Manchester** *MA (Distinction)*  
 Received distinction for both taught modules and final dissertation.
 
-# Experience
+# Academic Experience
 
 **Imperial College London** *October 2023 – Present*  
-PhD visiting student *London, UK*
+PhD visiting *London, UK*
 
-**The Alan Turing Institute** *December 2022 – Present*  
+**The Alan Turing Institute** *December 2022 – Oct 2024*  
 Member of Data Study Group *London, UK*
 
 **Warwick Behavioural Insight Team (WBIT)** *October 2021 – May 2023*  
@@ -63,12 +63,15 @@ PhD Student Representative
 * Alan Rugman Research Scholarship. *Henley Business School, University of Reading (2019)*
 * Research Grant. *University of National University of Ireland Galway (2019)*
 
-# Talks and Presentations
+# Invited Talks and Presentations
 
 * **The Game We All Play: Navigating Success Through Econometrics and Network Science**  
 Pint of Science UK.  *May 2024*
 
-* **Dynamic Behaviours and Multidimensional Panel Data**  
+* **Dynamics of Ranking in Competitive System**  
+Department of Mathematics, City, University of London.  *Jan 2024*
+
+* **Modelling and Multidimensional Panel Data**  
 Finance Group, Warwick Business School.  *Nov 2023*
 
 * **Beyond the Apex: Momentum, Paradox and Ripples of Stars in Competitive Organisations**  
@@ -85,7 +88,7 @@ Warwick MBA Professional Networks at The Shard, London. *Sep 2022*
 
 * **Modelling the discontinuous change with growth model**  
   Warwick Doctoral College. *Aug 2021*  
-  WBS Marketing Group. *Jan 2022*
+  Warwick Business School. *Jan 2022*
 
 * **Digital firms and digital ecosystems: Thoughts on their internationalisation**  
 Henley Business School. *Nov 2019*
