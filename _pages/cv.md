@@ -71,7 +71,7 @@ Pint of Science UK.  *May 2024*
 * **Dynamics of Ranking in Competitive System**  
 Department of Mathematics, City, University of London.  *Jan 2024*
 
-* **Modelling and Multidimensional Panel Data**  
+* **Modelling with Multidimensional Panel Data**  
 Finance Group, Warwick Business School.  *Nov 2023*
 
 * **Beyond the Apex: Momentum, Paradox and Ripples of Stars in Competitive Organisations**  
