@@ -18,7 +18,7 @@ Since 2022, I worked with both public sectors (e.g. [Department for Transport](h
 
 I currently serve as a science team advisor at The Alan Turing Institute, driving the development of multidisciplinary data science and AI initiatives, identifying industry challenges, and overseeing key research reports and publications.
 
-Beyond my daily routine, I play tennis and enjoy horseback riding.
+Beyond my daily routine, I play tennis and go horse riding.
 
 
 
