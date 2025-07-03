@@ -1,6 +1,6 @@
 ---
 title: "Growth Volatility and Global Trade"
-excerpt: "This study investigates how global shocks and trade networks influence country-level growth volatility, emphasising how macroeconomic fluctuations in one country can affect others through interconnected trade relationships and the transmission of shocks."
+excerpt: "How do global shocks and trade networks shape country-level growth volatility, and through what channels do macroeconomic fluctuations in one country affect others?"
 collection: portfolio
 ---
 
