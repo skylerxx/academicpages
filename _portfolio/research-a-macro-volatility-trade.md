@@ -1,5 +1,5 @@
 ---
-title: "Growth Volatility and Global Trade"
+title: "Growth, Volatility and Global Trade"
 excerpt: "How do global shocks and trade networks shape country-level growth volatility, and through what channels do macroeconomic fluctuations in one country affect others?"
 collection: portfolio
 ---
