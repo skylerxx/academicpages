@@ -6,8 +6,6 @@ collection: portfolio
 
 ### Abstract
 
-While business-to-business e-commerce channels offer significant potential, industrial organizations often struggle with effectively introducing these initiatives to their sales teams and predicting their integration into existing operations. In particular, organizations are often unable to explain the heterogeneity in adoption of e-commerce channels across their sales force. To shed light on this issue, we analyze the adoption of a new e-commerce channel over 35 months by 342 B2B professionals in industrail selling. Our findings indicate diverse adoption trajectories, with more positive growth observed in salespeople managing larger customers, those who use personal channels more often, and those with a higher share of new customer acquisition. Conversely, those with extensive sales experience and who are able to cross-sell more effectively showed slower adoption rates. These findings help in understanding the dynamics of multichannel selling, and provide important guidance for managers seeking to encourage e-commerce adoption among sales teams.
+This study explores how business-to-business e-commerce channels diffuse through industrial sales networks. Drawing on the time-series transactional data from sales professionals, we conceptualise adoption as a sequential and dyadic process linking salesperson and customer behaviour. Salespeople initially adopt the channel as a general productivity tool, then engage in targeted propagation within their customer portfolios, triggering a localised diffusion mechanism in which customer uptake depends on relational exposure and adaptive complementarities. This multi-level dynamic reveals that digital transformation in industrial selling is not a simple matter of individual acceptance, but an interactive process of mutual adaptation.
 
-*Keywords*: New e-commerce channel adoption, industrial selling, growth modelling 
-
-(Under review at a 4* [ABS] journal. The manuscript will be uploaded here.)
+(Under review at a 4* [ABS] journal.)
