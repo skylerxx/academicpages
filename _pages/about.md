@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a doctoral researcher with a focus on quantitative economics at [The Alan Turing Institute](https://www.turing.ac.uk/). I currently hold a visiting PhD position at [Imperial College London](https://www.imperial.ac.uk/).
+I recently completed my PhD, having previously been a doctoral researcher in quantitative economics at [The Alan Turing Institute](https://www.turing.ac.uk/).during which I held a visiting PhD position at [Imperial College London](https://www.imperial.ac.uk/) in 2024.
 
-I'm also trained at the [University of Warwick](https://warwick.ac.uk/), after I completed my study at the [University of Manchester](https://www.manchester.ac.uk/). My research focuses on quantitative economics, which combines economic theory with econometrics and machine learning to study economic incentives, resource allocation efficiency, and economic growth and volatility. In particular, I’m interested in modelling dynamic changes, causal inference, and complex network with longitudinal data, especially for modern economic data with high-dimension observations.
+I also received my doctoral training at the [University of Warwick](https://warwick.ac.uk/), following ealier studies at the [University of Manchester](https://www.manchester.ac.uk/). My research focuses on quantitative economics, which combines economic theory with econometrics and machine learning to study economic incentives, resource allocation efficiency, and economic growth and volatility. In particular, I’m interested in modelling dynamic changes, causal inference, and complex network with longitudinal data, especially for modern economic data with high-dimension observations.
 
 I initiated [Quantitative Solution Network](https://warwick.ac.uk/services/dc/phdlife/phdnetworks/quantitativesolutions) in 2021, with funding support from Warwick Doctoral College. This event series bring together PhD students from different subject backgrounds, to share their own experiences, challenges and insights in applying advanced quantitative methods and econometric theory in their research. 
 
