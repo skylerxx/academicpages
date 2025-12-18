@@ -12,4 +12,4 @@ We test the application of the DAM in a field study on the adoption of an e-comm
 
 By reframing adoption as an endogenous outcome of interdependent utility optimization, the DAM offers a parsimonious yet powerful theoretical structure for explaining persistent technology rollout failures. It provides a foundation for understanding how digital transformation is shaped by contractual logic, incentive alignment, and relational governance.
 
-(Under review at a 4 [ABS] journal.)
+(Under review)
