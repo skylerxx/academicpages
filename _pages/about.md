@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently completed my PhD, having previously been a doctoral researcher in quantitative economics at [The Alan Turing Institute](https://www.turing.ac.uk/), during which I held a visiting PhD position at [Imperial College London](https://www.imperial.ac.uk/) in 2024.
+I am wrapping up my PhD, having previously been a doctoral researcher in quantitative economics at [The Alan Turing Institute](https://www.turing.ac.uk/), during which I held a visiting PhD position at [Imperial College London](https://www.imperial.ac.uk/) in 2024.
 
 I also received my doctoral training at the [University of Warwick](https://warwick.ac.uk/), following ealier studies at the [University of Manchester](https://www.manchester.ac.uk/). My research focuses on quantitative economics, which combines economic theory with econometrics and machine learning to study economic incentives, resource allocation efficiency, and economic growth and volatility. In particular, I’m interested in modelling dynamic changes, causal inference, and complex network with longitudinal data, especially for modern economic data with high-dimension observations.
 
