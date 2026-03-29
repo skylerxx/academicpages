@@ -1,6 +1,6 @@
 ---
 title: "Mastercard: Measuring Fairness in Financial Transaction Machine Learning Models"
-excerpt: "We evaluate the presence of fairness and bias within their deployed ML models – particularly those employed in financial transactions. <img src='https://raw.githubusercontent.com/skylerxx/academicpages/master/images/Mastercard.png' width='500' height='400'>"
+excerpt: "We evaluate the presence of fairness and bias within their ML models in financial transactions. <img src='https://raw.githubusercontent.com/skylerxx/academicpages/master/images/Mastercard.png' width='500' height='400'>"
 collection: Industry
 ---
 
