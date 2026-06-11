@@ -10,7 +10,7 @@ redirect_from:
 
 I’ve recently wrapped up my PhD thesis, having been a doctoral researcher in quantitative economics at [The Alan Turing Institute](https://www.turing.ac.uk/), during which I held a visiting PhD position at [Imperial College London](https://www.imperial.ac.uk/) in 2024.
 
-I also received my doctoral training at the [University of Warwick](https://warwick.ac.uk/), following ealier studies at the [University of Manchester](https://www.manchester.ac.uk/). My research focuses on quantitative economics, which combines economic theory with econometrics and machine learning to study economic growth and volatility. In particular, I’m interested in modelling dynamic changes, forecasting, and complex networks, especially for modern economic data with high-dimension observations.
+I also received my doctoral training at the [University of Warwick](https://warwick.ac.uk/), following ealier studies at the [University of Manchester](https://www.manchester.ac.uk/). 
 
 I initiated [Quantitative Solution Network](https://warwick.ac.uk/services/dc/phdlife/phdnetworks/quantitativesolutions) in 2021, with funding support from Warwick Doctoral College. This event series bring together PhD students from different subject backgrounds, to share their own experiences, challenges and insights in applying advanced quantitative methods and econometric theory in their research. 
 
