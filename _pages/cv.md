@@ -17,7 +17,7 @@ Quantitative Economics
 **The University of Warwick** *PhD Candidate*  
 Passed with Distinction in the MPhil stage.
 
-**The University of Manchester** *MA (Distinction)*  
+**The University of Manchester** *MRes (Distinction)*  
 Received distinction for both taught modules and final dissertation.
 
 # Academic Experience
