@@ -12,7 +12,7 @@ redirect_from:
 # Education
 
 **The Alan Turing Institute** *PhD Student*  
-Quantitative Economics
+Data Science & AI
 
 **The University of Warwick** *PhD Candidate*  
 Passed with Distinction in the MPhil stage.
