@@ -1,13 +1,13 @@
 ---
-title: "Laggards Matter: The Role of Low-performing Employees in Team Performance"
+title: "From Last Place to Group Gains: Low-Performers and Group Performance"
 excerpt: "In this project, we highlight the potential positive impact that low-performing employees can have on their colleagues in the organization."
 collection: portfolio
 ---
 
 ### Abstract
 
-Low-performing employees, the 'laggards' of a team, are often looked down upon and receive little credit from their organizations compared to high-achieving employees. In this study, we focus on the role of laggards in an organizational context and shed light on their contributions to the team performance. Drawing on the literature from organization theory and behavioral economics, we propose that the improvement of a laggard performance can serve as a ‘nudge’ for enhancing the overall team's output, because the laggard’s team members experience “last-place aversion”. We test our proposition using panel data from an industrial trading company spanning eight years, focusing on the interplay between the laggards and their team members. We identify our effects using fixed-effects estimators and instrumental variable approach, together with a control function method. Results confirm that a laggard performance affects the performance of the remaining team. This effect is stronger when the laggard performance approaches their penultimate colleague in the team as well as other team members. Our findings not only enrich organizational and strategy research but also offer practical insights for managers aiming to optimize team performance.
+How do performance improvements of laggards, the lowest-performing individuals in a team, influence group performance? Drawing on social comparison theory and the concept of last place aversion, we suggest that the improvement of a laggard’s performance can serve as a catalyst for enhancing the entire group’s output, because other group members will enhance their own efforts to avoid falling into last place. Using nearly eight years of data from an industrial firm, we examine how laggards’ performance influences the performance of their groups. Our results show that improvements in laggards’ performance significantly enhance subsequent performance of the remaining group. This performance enhancing effect is particularly pronounced for those group members ranked near the bottom of the hierarchy. Moreover, this effect differs between groups and depends on how salient it is within groups that the laggard can change and how close the performance of other group members is to the laggards’ performance. Our findings extend research on rank-based motivation by documenting field evidence consistent with last place aversion and its contingent impact on group performance.
 
-*Keywords* : low-performing employees, team performance, last-place aversion, behavioral strategy
+*Keywords* : Group performance, downward comparison, last-place aversion, behavioral strategy
 
 (Under review)
