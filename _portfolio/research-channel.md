@@ -10,4 +10,4 @@ Technology adoption is often modeled as an individual decision, yet many technol
 
 We test the application of the DAM in a field study on the adoption of a digital platform by frontline sales professionals and their customers. The findings demonstrate that technology uptake reflects this interdependent logic, such that adoption outcomes depend jointly on both actors’ evaluations and the social context in which they are embedded. Rather than diffusing through simple imitation or unilateral choice, the adoptoin evolves through localized structures of influence in which mediation effort and perceived complementarities determine whether digital tools gain traction.
 
-(Accepted, **Journal of Service Research** (ABS 4))
+(Forthcoming at **Journal of Service Research** (ABS 4))
