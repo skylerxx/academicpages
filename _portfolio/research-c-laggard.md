@@ -10,4 +10,5 @@ How do performance improvements of laggards, the lowest-performing individuals i
 
 *Keywords* : Group performance, downward comparison, last-place aversion
 
+[Link to the paper](https://www.dropbox.com/scl/fi/29ij9zzj46iq5gls04t6x/Laggard_Matters_Skyler-Xie.pdf?rlkey=6hgx3ip96fzu14wf6rmtfr13z&st=ftn5cbh8&dl=0)
 
