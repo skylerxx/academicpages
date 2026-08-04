@@ -34,9 +34,6 @@ The Nudge Unit Lead *Coventry, UK*
 **University of Warwick** *September 2021 – September 2023*  
 Senior Graduate Teaching Assistant *Coventry, UK*
 
-**Brant Lake Camp** *June 2016 – September 2016*  
-Intern *New York State, USA*
-
 # Service and Responsibility
 
 **Economics Reading Group and Data Briefing** *Jan 2024 – Present*  
