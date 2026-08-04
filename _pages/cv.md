@@ -69,7 +69,8 @@ PhD Student Representative
 Pint of Science UK.  *May 2024*
 
 * **Dynamics of Ranking in Competitive System**  
-Department of Mathematics, City, University of London.  *Jan 2024*
+  City, University of London.  *Jan 2024*  
+  VU Amsterdam.  *July 2024* 
 
 * **Modelling with Multidimensional Panel Data**  
 Finance Group, Warwick Business School.  *Nov 2023*
