@@ -10,6 +10,6 @@ Technology adoption is often modeled as an individual decision, yet many technol
 
 We test the application of the DAM in a field study on the adoption of a digital platform by frontline sales professionals and their customers. The findings demonstrate that technology uptake reflects this interdependent logic, such that adoption outcomes depend jointly on both actors’ evaluations and the social context in which they are embedded. Rather than diffusing through simple imitation or unilateral choice, the adoptoin evolves through localized structures of influence in which mediation effort and perceived complementarities determine whether digital tools gain traction.
 
-(Forthcoming at **Journal of Service Research** (ABS 4), [Preprint](https://wrap.warwick.ac.uk/id/eprint/202234/1/WRAP-Dual-technology-adoption-26.pdf))
+(Published at **Journal of Service Research** (ABS 4), [Paper link](https://journals.sagepub.com/doi/10.1177/10946705261471938))
 
 Xie, S., Kassemeier, R., Habel, J., Lee, N., & Alavi, S. (2026). Dual technology adoption. Journal of Service Research.
