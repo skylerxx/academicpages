@@ -12,7 +12,7 @@ redirect_from:
 # Education
 
 **The Alan Turing Institute** *PhD Student*  
-Data Science & AI
+Econometrics and Data Science
 
 **The University of Warwick** *PhD Candidate*  
 Passed with Distinction in the MPhil stage.
@@ -31,12 +31,12 @@ Member of Data Study Group *London, UK*
 **Warwick Behavioural Insight Team (WBIT)** *October 2021 – May 2023*  
 The Nudge Unit Lead *Coventry, UK*
 
-**University of Warwick** *September 2021 – September 2023*  
+**University of Warwick** *September 2021 – September 2024*  
 Senior Graduate Teaching Assistant *Coventry, UK*
 
 # Service and Responsibility
 
-**Economics Reading Group and Data Briefing** *Jan 2024 – Present*  
+**Reading Group and Brown Bag Seminar** *Jan 2024 – Present*  
 Organiser at The Alan Turing Institute
 
 **The Alan Turing Institute** *2022 - 2023*  
@@ -63,7 +63,7 @@ PhD Student Representative
 # Invited Talks and Presentations
 
 * **The Game We All Play: Navigating Success Through Econometrics and Network Science**  
-Pint of Science UK.  *May 2024*
+Pint of Science UK.  *May 2024, 2023*
 
 * **Dynamics of Ranking in Competitive System**  
   City, University of London.  *Jan 2024*  
@@ -77,7 +77,7 @@ Behavioural Science Group, Warwick Business School.  *Jun 2023*
 
 * **Laggards Matter: Discover the role of laggard employees in team performance**  
   WBS Behavioural Science Group. *May 2022*  
-  Ruhr-Universität Bochum, Germany. *November 2022*  
+  Ruhr-Universität Bochum, Germany. *2023*  
   AMA Winter Academic Conference. USA *Feb 2023*  
   WBS Organisation and Work Group. *Oct 2023*
 
