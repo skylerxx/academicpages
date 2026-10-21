@@ -22,14 +22,11 @@ Received distinction for both taught modules and final dissertation.
 
 # Academic Experience
 
-**Imperial College London** *October 2023 – Present*  
+**Imperial College London** *October 2023 – Jan 2025*  
 PhD visiting *London, UK*
 
-**The Alan Turing Institute** *December 2022 – Oct 2024*  
-Member of Data Study Group *London, UK*
-
-**Warwick Behavioural Insight Team (WBIT)** *October 2021 – May 2023*  
-The Nudge Unit Lead *Coventry, UK*
+**The Alan Turing Institute** *Sep 2022 – Present*  
+Applied Science (Data Science and AI) Team *London, UK*
 
 **University of Warwick** *September 2021 – September 2024*  
 Senior Graduate Teaching Assistant *Coventry, UK*
@@ -45,15 +42,15 @@ Project Facilitator of Data Study Group
 **Warwick Doctoral College** *October 2021 – Present*  
 Co-founder of Quantitative Solution Network 
 
-**Warwick Business School Doctoral Programme** *November 2020 – September 2021*  
-PhD Student Representative
+**Warwick University Doctoral Programme** *November 2020 – September 2021*  
+Chair of Staff-Student Liaison Committee
 
 
 # Awards and Honours 
 
 * Outstanding Doctoral Student Achievements. *University of Warwick (2024)*
 * AMA-Sheth Foundation Doctoral Fellowship (2024)
-* PhD Enrichment Scheme Grant. *The Alan Turing Institute (2023)*
+* Turing Enrichment Scheme Grant. *The Alan Turing Institute (2023)*
 * Outstanding Contribution to Teaching Award. *Warwick Business School (2022)*
 * Research Engagement Fund for Quantitative Solution Network. *Warwick Doctoral College (2021)*
 * PhD Scholarship Award. *University of Warwick (2020)*
@@ -61,6 +58,12 @@ PhD Student Representative
 * Research Grant. *University of National University of Ireland Galway (2019)*
 
 # Invited Talks and Presentations
+
+* **Taming Turbulence: Forecasting Through the Structure of Volatility**  
+Bank of England, London.  *Sep 2025*
+
+* **AI UK**  
+Westminster, UK.  *March 2025*
 
 * **The Game We All Play: Navigating Success Through Econometrics and Network Science**  
 Pint of Science UK.  *May 2024, 2023*
