@@ -22,11 +22,11 @@ Received distinction for both taught modules and final dissertation.
 
 # Academic Experience
 
-**Imperial College London** *October 2023 – Jan 2025*  
-PhD visiting *London, UK*
+**The Alan Turing Institute** *Sep 2024 – Present*  
+Applied Science Advisor (Data Science and AI) *London, UK*
 
-**The Alan Turing Institute** *Sep 2022 – Present*  
-Applied Science (Data Science and AI) Team *London, UK*
+**Imperial College London** *October 2023 – Jan 2025*  
+PhD Visiting Fellow *London, UK*
 
 **University of Warwick** *September 2021 – September 2024*  
 Senior Graduate Teaching Assistant *Coventry, UK*
