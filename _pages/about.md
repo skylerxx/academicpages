@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently took on the role of Principal Investigator at the Alan Turing Institute. I am also part of the Science Advisory Team at the Institute.
+I am currently a Principal Investigator at the Alan Turing Institute. I am also part of the Science Advisory Team at the Institute.
 
 I finished my PhD at Warwick, having been a doctoral researcher at The Alan Turing Institute, during which I held a visiting PhD position at Imperial College London. Previously, I studied at the University of Manchester. 
 
